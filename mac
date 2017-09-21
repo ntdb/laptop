@@ -114,6 +114,7 @@ brew "the_silver_searcher"
 brew "vim"
 brew "neovim"
 brew "zsh"
+brew "zsh-autosuggestions"
 brew "antigen"
 
 # Programming language prerequisites and package managers
