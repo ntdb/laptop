@@ -135,6 +135,10 @@ cask "vagrant"
 cask "virtualbox"
 cask "sublime-text"
 cask "iterm2"
+cask "spectacle"
+cask "bartender"
+cask "aware"
+cask "istat-menus"
 
 EOF
 
