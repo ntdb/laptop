@@ -133,6 +133,7 @@ cask "sourcetree"
 cask "1password"
 cask "vagrant"
 cask "virtualbox"
+cask "sublime-text"
 
 EOF
 
