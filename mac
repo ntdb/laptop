@@ -138,6 +138,9 @@ cask "spectacle"
 cask "bartender"
 cask "aware"
 cask "istat-menus"
+cask "sequel-pro"
+cask "transmit"
+cask "postman"
 
 EOF
 
