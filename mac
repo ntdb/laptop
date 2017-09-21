@@ -123,7 +123,7 @@ brew "yarn"
 brew "nvm"
 
 # Apps
-cask "chrome"
+cask "google-chrome"
 cask "slack"
 cask "spotify"
 cask "alfred"
