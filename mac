@@ -121,7 +121,6 @@ brew "libyaml" # should come after openssl
 brew "coreutils"
 brew "yarn"
 brew "nvm"
-brew "avm"
 
 # Apps
 cask "chrome"
